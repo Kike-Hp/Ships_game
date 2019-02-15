@@ -4,9 +4,11 @@
 
 #install:
 
-#Tkinter: sudo apt-get install tk-dev python-tk 
-#numpy: sudo apt install python-numpy python-scipy
-#PIL:  sudo apt-get install python-imaging-tk
+Tkinter: sudo apt-get install tk-dev python-tk 
+  
+numpy: sudo apt install python-numpy python-scipy
+  
+PIL:  sudo apt-get install python-imaging-tk
 
 
 1. Download repo
