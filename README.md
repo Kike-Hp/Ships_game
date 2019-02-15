@@ -1,9 +1,8 @@
 # Ships_game
-# Battelships
-# Tkinter
-# Socket
 
-# Download repo
-# Run server in console.
-# Run Client at  computer
-# Run second Client at another computer
+#Battelships, #Tkinter, #Socket
+
+1. Download repo
+2. Run server in console.
+3. Run Client at  computer
+4. Run second Client at another computer
