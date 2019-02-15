@@ -2,11 +2,11 @@
 
 #Battelships, #Tkinter, #Socket
 
-install:
+#install:
 
-Tkinter: sudo apt-get install tk-dev python-tk 
-numpy: sudo apt install python-numpy python-scipy
-PIL:  sudo apt-get install python-imaging-tk
+1. Tkinter: sudo apt-get install tk-dev python-tk 
+2. numpy: sudo apt install python-numpy python-scipy
+3. PIL:  sudo apt-get install python-imaging-tk
 
 
 1. Download repo
